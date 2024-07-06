@@ -1,0 +1,40 @@
+
+.img-guide{
+    height: 360px;
+    width: 640px;
+    margin-top: 20px;
+}
+
+
+body{
+    padding-left:100px;
+    display: flex;
+    justify-content: center;
+    ;
+
+    
+    width: 1600px;
+    height: 600px;
+    background-color: violet;
+   
+    
+    background-repeat: no-repeat;
+    
+}
+
+.title-mod{
+    font-family: Roboto;
+    margin-top: 40px;
+    color: white;
+}
+
+.img-1{
+    margin-right: 50px;
+}
+
+.img-2{
+    margin-left: 50px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
